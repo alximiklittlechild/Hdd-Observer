@@ -197,3 +197,6 @@ This repository serves as the official landing page for HDD Observer. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HDD Observer today!**
+
+---
+**Last updated:** 2026-11-05 23:53:34 UTC
